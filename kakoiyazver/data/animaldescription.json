@@ -1,0 +1,63 @@
+{
+    "мышь": {
+      "name": "МЫШЬ МАЛЮТКА",
+      "description": "Ты маленькая миленькая мышь малютка, которая предпочитает спокойно провожить вечера дома с чашечкой чая",
+      "image": "media/images/harvestmouse.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/mysh_malyutka"
+    },
+    "крокодил": {
+      "name": "ТУПОРЫЛЫЙ КРОКОДИЛ",
+      "description": "Ты уверенный в себе, сильный и бесстрашный. Никого не трогаешь, но если тебя достанут, покажешь свои зубы",
+      "image": "media/images/dwarfcrocodile.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/tuporylyy_krokodil"
+    },
+    "пингвин": {
+      "name": "ПИНГВИН ОЧКОВЫЙ",
+      "description": "Ты милаш, который любит проводить время в тепле с друзьями",
+      "image": "media/images/jackasspenguin.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/pingvin_afrikanskiy_ochkovyy"
+    },
+    "тюлень": {
+        "name": "ДЛИННОМОРДЫЙ ТЮЛЕНЬ",
+        "description": "Ты кайфарик, отдыхаешь, когда все напрягаются, твой девиз по жизни - жить на чилле",
+        "image": "media/images/greyseal.jpg",
+        "guardian_link": "https://moscowzoo.ru/animals/kinds/seryy_tyulen"
+      },
+    "крыса": {
+      "name": "СЕВЕРНАЯ ТОНКОХВОСТАЯ КРЫСА",
+      "description": "Ты быстрая ловкая крыса, которая любит вкусно покушать и поспленичать с подружками",
+      "image": "media/images/rat.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/severnaya_tonkohvostaya_krysa"
+    },
+    "баран": {
+      "name": "ГОЛУБОЙ БАРАН",
+      "description": "Ты ценишь уединение и наслаждаешься природой в кругу самых близких",
+      "image": "media/images/bharal.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/goluboy_baran"
+    },
+    "лебедь": {
+      "name": "ЛЕБЕДЬ ШИПУН",
+      "description": "Ты любишь внимание, потому что знаешь, что самый крутой",
+      "image": "media/images/muteswan.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/lebed_shipun"
+    },
+    "павлин": {
+      "name": "ОБЫКНОВЕННЫЙ ПАВЛИН",
+      "description": "Ты типичный нарцисс, ой, то есть обыкновенный павлин... Грациозный петух, знающий себе цену",
+      "image": "media/images/peafowl.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/obyknovennyy_pavlin"
+    },
+    "гадюка": {
+      "name": "ШУМЯЩАЯ ГАДЮКА",
+      "description": "Тебя много, ты любишь привлекать к себе внимание, но не любишь общение, все тебя боятся, не зная, что ты тебе слишком лень что-либо делать",
+      "image": "media/images/bitisarietans.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/shumyaschaya_gadyuka"
+    },
+    "": {
+      "name": "ШИЛОКЛЮВКА",
+      "description": "Ты хищник, но все видят только твою маску милоый пташки",
+      "image": "media/images/piedavocet.jpg",
+      "guardian_link": "https://moscowzoo.ru/animals/kinds/shiloklyuvka"
+    }
+  }
+  
